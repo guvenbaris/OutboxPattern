@@ -1,7 +1,6 @@
 ﻿using MediatR;
 using OutboxPattern.Application.Interfaces.Repositories.Base;
 using OutboxPattern.Application.Utilities.Results;
-using System.Transactions;
 
 namespace OutboxPattern.Application.Utilities.Behaviors;
 
